@@ -2,7 +2,7 @@
 
 [Python 2.7.10](https://www.python.org/downloads/release/python-2710/)
 
-![python](image/python.png)
+![python](image/python/python.png)
 
 ### steps
 - Ver2.7をインストール　python-2.7.10.msi
