@@ -12,17 +12,17 @@
     $ nodist -v
     $ node -v
     ```
-- インストーラーで、Nodistをインストールします。
+- インストーラーで、Nodistをインストールします。  
     ![nodist](image/nodist-02.png)
-- ライセンスに同意する
+- ライセンスに同意する  
     ![nodist](image/nodist-03.png)
-- デフォルトのまま　特に指定なし
+- デフォルトのまま　特に指定なし  
     ![nodist](image/nodist-04.png)
-- デフォルトのまま　特に指定なし
+- デフォルトのまま　特に指定なし  
     ![nodist](image/nodist-05.png)
-- インストール開始
+- インストール開始  
     ![nodist](image/nodist-06.png)
-- インストール完了
+- インストール完了  
     ![nodist](image/nodist-07.png)
 - nodist -vでバージョンが表示されれば、OKです。
     ```
