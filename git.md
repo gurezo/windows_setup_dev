@@ -8,6 +8,7 @@
 
 ### steps
 - Gitのインストーラーに従ってインストールします。
+
     ![git](image/git/git-01.png)
 
     ![git](image/git/git-02.png)
