@@ -1,8 +1,9 @@
 ## git set up
 
-[Git for Windows](https://gitforwindows.org/)
+[Git for Windows](https://gitforwindows.org/)  
 
 ![git](image/git/git-00.png)
+
 
 
 ### steps
