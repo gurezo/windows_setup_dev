@@ -1,2 +1,2 @@
-# windows_setup_dev
+# windows setup develop enviroment
 this is Develop Enviroment of Set Up for Windows
