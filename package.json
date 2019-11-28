@@ -1,0 +1,16 @@
+{
+  "name": "windows_setup_dev",
+  "version": "1.0.0",
+  "description": "windows setup develop enviroment",
+  "main": "index.js",
+  "scripts": {
+    "init": "gitbook init",
+    "start": "gitbook serve",
+    "build": "gitbook build",
+    "publish": "gh-pages -d _book -m 'Auto publish book'"
+  },
+  "devDependencies": {
+    "gh-pages": "^0.12.0",
+    "gitbook-cli": "^2.3.0"
+  }
+}
