@@ -41,6 +41,40 @@
 
     ![git](image/git/git-16.png)
 
-- Git BashでGitHubにSSH接続
+    ![git](image/git/git-17.png)
+
+### rsync steps
+- rsync をセットアップします。
+
+    ![git](image/git/git-18.png)
+
+    ![git](image/git/git-19.png)
+
+    ![git](image/git/git-20.png)
+
+    ![git](image/git/git-21.png)
+
+    ![git](image/git/git-22.png)
+
+    ![git](image/git/git-23.png)
+
+    ![git](image/git/git-24.png)
+
+    ![git](image/git/git-25.png)
+
+    ![git](image/git/git-26.png)
+
+    ![git](image/git/git-27.png)
+
+    ![git](image/git/git-28.png)
+
+    ![git](image/git/git-29.png)
+
+
+### Git BashでGitHubにSSH接続
   - 参考：[[Windows 10] Git BashでGitHubにSSH接続](https://qiita.com/coffee_g9/items/e1b9ab28cfa54f854308)
   - 参考：[【Git】Windows環境でGitHubにSSH接続してコミットするまでの手順](https://qiita.com/hollyhock0518/items/a3fee20951cd92c87ed9)
+
+### How to Add rsync to Git Bash for Windows 10
+  - 参考：[How to Add rsync to Git Bash for Windows 10](https://gist.github.com/hisplan/ee54e48f17b92c6609ac16f83073dde6)
+ 
