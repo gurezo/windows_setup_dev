@@ -74,6 +74,7 @@
 ### Git BashでGitHubにSSH接続
   - 参考：[[Windows 10] Git BashでGitHubにSSH接続](https://qiita.com/coffee_g9/items/e1b9ab28cfa54f854308)
   - 参考：[【Git】Windows環境でGitHubにSSH接続してコミットするまでの手順](https://qiita.com/hollyhock0518/items/a3fee20951cd92c87ed9)
+  - 参考：[nodist の罠 / nodist trap](https://lifewood.hatenablog.com/entry/2020/11/08/150645)
 
 ### How to Add rsync to Git Bash for Windows 10
   - 参考：[How to Add rsync to Git Bash for Windows 10](https://gist.github.com/hisplan/ee54e48f17b92c6609ac16f83073dde6)

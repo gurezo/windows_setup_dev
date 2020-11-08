@@ -19,37 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5891d452-0f6a-4b14-907f-ded4f62de60e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/image/git/git-17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/git/git-18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/git/git-19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/git/git-20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/git/git-21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/git/git-22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/git/git-23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/git/git-24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/git/git-25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/git/git-26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/git/git-27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/git/git-28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/git/git-29.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git.md" beforeDir="false" afterPath="$PROJECT_DIR$/git.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/git/git-02.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/git/git-02.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/git/git-03.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/git/git-03.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/git/git-04.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/git/git-04.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/git/git-05.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/git/git-05.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/git/git-06.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/git/git-06.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/git/git-07.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/git/git-07.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/git/git-08.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/git/git-08.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/git/git-09.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/git/git-09.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/git/git-10.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/git/git-10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/git/git-11.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/git/git-11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/git/git-12.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/git/git-12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/git/git-13.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/git/git-13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/git/git-14.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/git/git-14.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/git/git-15.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/git/git-15.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/git/git-16.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/git/git-16.png" afterDir="false" />
-    </list>
+    <list default="true" id="5891d452-0f6a-4b14-907f-ded4f62de60e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,9 +29,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1h8r1RgcNHJSKm0RMvHfq2hu3O2" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -70,6 +37,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -81,6 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599403348679</updated>
       <workItem from="1599403350835" duration="1530000" />
+      <workItem from="1604810896602" duration="623000" />
     </task>
     <servers />
   </component>
@@ -97,6 +66,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
