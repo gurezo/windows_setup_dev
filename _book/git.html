@@ -3,11 +3,10 @@
 <html lang="ja" >
     <head>
         <meta charset="UTF-8">
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>gitの設定 · GitBook</title>
+        <title>gitの設定 · HonKit</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
-        <meta name="generator" content="GitBook 3.2.2">
+        <meta name="generator" content="HonKit 4.0.0">
         
         
         
@@ -17,7 +16,7 @@
     
             
                 
-                <link rel="stylesheet" href="gitbook/gitbook-plugin-highlight/website.css">
+                <link rel="stylesheet" href="gitbook/@honkit/honkit-plugin-highlight/website.css">
                 
             
                 
@@ -66,12 +65,12 @@
     </head>
     <body>
         
-<div class="book">
+<div class="book honkit-cloak">
     <div class="book-summary">
         
             
 <div id="book-search-input" role="search">
-    <input type="text" placeholder="検索すると入力" />
+    <input type="text" placeholder="検索ワードを入力" />
 </div>
 
             
@@ -192,8 +191,8 @@
     <li class="divider"></li>
 
     <li>
-        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
-            GitBookで公開 
+        <a href="https://github.com/honkit/honkit" target="blank" class="gitbook-link">
+            HonKitで公開 
         </a>
     </li>
 </ul>
@@ -236,7 +235,7 @@
 <p><img src="image/git/git-00.png" alt="git"></p>
 <h3 id="steps">steps</h3>
 <ul>
-<li><p>Git&#x306E;&#x30A4;&#x30F3;&#x30B9;&#x30C8;&#x30FC;&#x30E9;&#x30FC;&#x306B;&#x5F93;&#x3063;&#x3066;&#x30A4;&#x30F3;&#x30B9;&#x30C8;&#x30FC;&#x30EB;&#x3057;&#x307E;&#x3059;&#x3002;</p>
+<li><p>Gitのインストーラーに従ってインストールします。</p>
 <p>  <img src="image/git/git-01.png" alt="git"></p>
 <p>  <img src="image/git/git-02.png" alt="git"></p>
 <p>  <img src="image/git/git-03.png" alt="git"></p>
@@ -253,13 +252,35 @@
 <p>  <img src="image/git/git-14.png" alt="git"></p>
 <p>  <img src="image/git/git-15.png" alt="git"></p>
 <p>  <img src="image/git/git-16.png" alt="git"></p>
+<p>  <img src="image/git/git-17.png" alt="git"></p>
 </li>
-<li><p>Git Bash&#x3067;GitHub&#x306B;SSH&#x63A5;&#x7D9A;</p>
-<ul>
-<li>&#x53C2;&#x8003;&#xFF1A;<a href="https://qiita.com/coffee_g9/items/e1b9ab28cfa54f854308" target="_blank">[Windows 10] Git Bash&#x3067;GitHub&#x306B;SSH&#x63A5;&#x7D9A;</a></li>
-<li>&#x53C2;&#x8003;&#xFF1A;<a href="https://qiita.com/hollyhock0518/items/a3fee20951cd92c87ed9" target="_blank">&#x3010;Git&#x3011;Windows&#x74B0;&#x5883;&#x3067;GitHub&#x306B;SSH&#x63A5;&#x7D9A;&#x3057;&#x3066;&#x30B3;&#x30DF;&#x30C3;&#x30C8;&#x3059;&#x308B;&#x307E;&#x3067;&#x306E;&#x624B;&#x9806;</a></li>
 </ul>
+<h3 id="rsync-steps">rsync steps</h3>
+<ul>
+<li><p>rsync をセットアップします。</p>
+<p>  <img src="image/git/git-18.png" alt="git"></p>
+<p>  <img src="image/git/git-19.png" alt="git"></p>
+<p>  <img src="image/git/git-20.png" alt="git"></p>
+<p>  <img src="image/git/git-21.png" alt="git"></p>
+<p>  <img src="image/git/git-22.png" alt="git"></p>
+<p>  <img src="image/git/git-23.png" alt="git"></p>
+<p>  <img src="image/git/git-24.png" alt="git"></p>
+<p>  <img src="image/git/git-25.png" alt="git"></p>
+<p>  <img src="image/git/git-26.png" alt="git"></p>
+<p>  <img src="image/git/git-27.png" alt="git"></p>
+<p>  <img src="image/git/git-28.png" alt="git"></p>
+<p>  <img src="image/git/git-29.png" alt="git"></p>
 </li>
+</ul>
+<h3 id="git-bashでgithubにssh接続">Git BashでGitHubにSSH接続</h3>
+<ul>
+<li>参考：<a href="https://qiita.com/coffee_g9/items/e1b9ab28cfa54f854308" target="_blank">[Windows 10] Git BashでGitHubにSSH接続</a></li>
+<li>参考：<a href="https://qiita.com/hollyhock0518/items/a3fee20951cd92c87ed9" target="_blank">【Git】Windows環境でGitHubにSSH接続してコミットするまでの手順</a></li>
+<li>参考：<a href="https://lifewood.hatenablog.com/entry/2020/11/08/150645" target="_blank">nodist の罠 / nodist trap</a></li>
+</ul>
+<h3 id="how-to-add-rsync-to-git-bash-for-windows-10">How to Add rsync to Git Bash for Windows 10</h3>
+<ul>
+<li>参考：<a href="https://gist.github.com/hisplan/ee54e48f17b92c6609ac16f83073dde6" target="_blank">How to Add rsync to Git Bash for Windows 10</a></li>
 </ul>
 
                                 
@@ -304,12 +325,56 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"gitの設定","level":"1.1.4","depth":2,"next":{"title":"inputの設定","level":"1.1.5","depth":2,"path":"input.md","ref":"input.md","articles":[]},"previous":{"title":"rubyの設定","level":"1.1.3","depth":2,"path":"ruby.md","ref":"ruby.md","articles":[]},"dir":"ltr"},"config":{"plugins":[],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"language":"ja","gitbook":"*"},"file":{"path":"git.md","mtime":"2020-01-15T12:34:57.765Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2020-01-16T15:04:40.341Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"gitの設定","level":"1.1.4","depth":2,"next":{"title":"inputの設定","level":"1.1.5","depth":2,"path":"input.md","ref":"input.md","articles":[]},"previous":{"title":"rubyの設定","level":"1.1.3","depth":2,"path":"ruby.md","ref":"ruby.md","articles":[]},"dir":"ltr"},"config":{"plugins":[],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56},"embedFonts":false},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"language":"ja","gitbook":"*"},"file":{"path":"git.md","mtime":"2022-09-18T08:21:42.338Z","type":"markdown"},"gitbook":{"version":"4.0.0","time":"2022-09-19T12:21:40.355Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
 
         
+    <noscript>
+        <style>
+            .honkit-cloak {
+                display: block !important;
+            }
+        </style>
+    </noscript>
+    <script>
+        // Restore sidebar state as critical path for prevent layout shift
+        function __init__getSidebarState(defaultValue){
+            var baseKey = "";
+            var key = baseKey + ":sidebar";
+            try {
+                var value = localStorage[key];
+                if (value === undefined) {
+                    return defaultValue;
+                }
+                var parsed = JSON.parse(value);
+                return parsed == null ? defaultValue : parsed;
+            } catch (e) {
+                return defaultValue;
+            }
+        }
+        function __init__restoreLastSidebarState() {
+            var isMobile = window.matchMedia("(max-width: 600px)").matches;
+            if (isMobile) {
+                // Init last state if not mobile
+                return;
+            }
+            var sidebarState = __init__getSidebarState(true);
+            var book = document.querySelector(".book");
+            // Show sidebar if it enabled
+            if (sidebarState && book) {
+                book.classList.add("without-animation", "with-summary");
+            }
+        }
+
+        try {
+            __init__restoreLastSidebarState();
+        } finally {
+            var book = document.querySelector(".book");
+            book.classList.remove("honkit-cloak");
+        }
+    </script>
     <script src="gitbook/gitbook.js"></script>
     <script src="gitbook/theme.js"></script>
     
@@ -327,10 +392,6 @@
     
         
         <script src="gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
-        
-    
-        
-        <script src="gitbook/gitbook-plugin-sharing/buttons.js"></script>
         
     
         

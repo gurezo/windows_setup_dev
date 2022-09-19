@@ -4,14 +4,14 @@
   "description": "windows setup develop enviroment",
   "main": "index.js",
   "scripts": {
-    "init": "gitbook init",
-    "start": "gitbook serve",
-    "build": "gitbook build",
-    "publish": "gh-pages -d _book -m 'Auto publish book'",
-    "subtree": "git subtree push --prefix _book origin gh-pages"
+    "init": "honkit init",
+    "start": "honkit serve",
+    "build": "honkit build",
+    "publish": "gh-pages -d _book -m 'Auto publish book'"
   },
   "devDependencies": {
     "gh-pages": "^0.12.0",
-    "gitbook-cli": "^2.3.0"
+    "gitbook-cli": "^2.3.0",
+    "honkit": "^4.0.0"
   }
 }
